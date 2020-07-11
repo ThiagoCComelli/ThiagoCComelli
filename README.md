@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <strong>Hi there 👋 I don't now what i'm doing im my life!</strong>
+</p>
+
 
 <!--
 **ThiagoCComelli/ThiagoCComelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![WAZUP](https://user-images.githubusercontent.com/51216389/87212062-09793000-c2f3-11ea-9f89-e0c68327367c.gif)
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/51216389/87212062-09793000-c2f3-11ea-9f89-e0c68327367c.gif">
+</p>
