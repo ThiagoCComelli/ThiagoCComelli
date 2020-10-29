@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/51216389/87212062-09793000-c2f3-11ea-9f89-e0c68327367c.gif">
+  <img  src="https://user-images.githubusercontent.com/51216389/97631300-80a41280-1a0f-11eb-8b6c-6f561405f4a8.gif">
 </p>
